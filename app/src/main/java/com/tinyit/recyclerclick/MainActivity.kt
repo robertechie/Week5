@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             UserProfile("Eunice", "Okigwe", R.drawable._xin0r2nwsm),
             UserProfile("Enoch", "South South", R.drawable.f1bymegz_ao),
             UserProfile("Babel", "Buhari", R.drawable.yng9t71m_4w),
-            UserProfile("Typoe", "Robert", R.drawable.bf68o_1nizs)
+            UserProfile("J-BANY", "Robert", R.drawable.bf68o_1nizs)
         )
         userAd = UserAdapter(this, user)
         mainBinding.userList.setHasFixedSize(true)
